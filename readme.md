@@ -7,4 +7,4 @@ mas quase uma não estrutura, no sentido de que parte de sua força está na hab
 
 * Muito _embora_ um dos princípios da rede seja sua abertura e porosidade, por ser uma ligação social, a 
 conexão fundamental entre as pessoas se dá através da identidade.
-<https://pt.wikipedia.org/wiki/Rede_social>
+< https://pt.wikipedia.org/wiki/Rede_social >
