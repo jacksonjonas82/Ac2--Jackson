@@ -8,3 +8,12 @@ mas quase uma não estrutura, no sentido de que parte de sua força está na hab
 * Muito _embora_ um dos princípios da rede seja sua abertura e porosidade, por ser uma ligação social, a 
 conexão fundamental entre as pessoas se dá através da identidade.
 < https://pt.wikipedia.org/wiki/Rede_social >
+![capa-2](https://user-images.githubusercontent.com/71298055/93837838-06d57800-fc5e-11ea-9238-052e45b2c745.png)
+
+
+ | Pricipais Peças do Hardware | 
+ |-----------------------------|
+ |        FACEBOOK             |
+ |        WHATSAPP             | 
+ |        INSTAGRAM            |
+ |        TELEGRAM             |
