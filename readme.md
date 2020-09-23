@@ -1,6 +1,6 @@
 #  Redes Social
 
-* Rede social é uma estrutura social composta por pessoas ou organizações, conectadas por um ou vários tipos de relações
+* Rede social é uma estrutura ~social~ composta por **pessoas** ou organizações, _conectadas_ por um ou vários tipos de relações
 que compartilham valores e objetivos comuns. Uma das fundamentais características na definição das redes é a sua abertura, 
 > possibilitando relacionamentos horizontais e não hierárquicos entre os participantes. "Redes não são, portanto, apenas uma outra forma de estrutura, 
 mas quase uma não estrutura, no sentido de que parte de sua força está na habilidade de se fazer e desfazer rapidamente."[1]
@@ -17,3 +17,20 @@ conexão fundamental entre as pessoas se dá através da identidade.
  |        WHATSAPP             | 
  |        INSTAGRAM            |
  |        TELEGRAM             |
+
+> Redes sociais são estruturas formadas dentro ou fora da internet, por pessoas e organizações que se conectam a partir de interesses ou valores comuns. Muitos confundem com mídias sociais, porém as mídias são apenas mais uma forma de criar redes sociais, inclusive na internet.
+
+@github/suporte O que você acha dessas atualizações?
+
+@octocat :+1: Este PR parece ótimo - está pronto para o merge! :shipit:
+
+Alguns comandos Git básicos são:
+```
+git status
+git add
+git commit
+```
+
+- [x] Tinder
+- [ ] Snapchat
+- [ ] Menssager
